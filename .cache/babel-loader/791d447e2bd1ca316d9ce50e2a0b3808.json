@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { Login } from \"./login\";","map":{"version":3,"sources":["E:/chat-app/src/page/index.js"],"names":["Login"],"mappings":"AAAA,SAAQA,KAAR,QAAoB,SAApB","sourcesContent":["import {Login} from \"./login\"\r\n"]},"metadata":{},"sourceType":"module"}

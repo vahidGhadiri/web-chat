@@ -1,0 +1,1 @@
+{"ast":null,"code":"export default {\n  Login\n};","map":{"version":3,"sources":["E:/chat-app/src/page/index.js"],"names":["Login"],"mappings":"AAAA,eAAe;AACbA,EAAAA;AADa,CAAf","sourcesContent":["export default {\r\n  Login\r\n}\r\n"]},"metadata":{},"sourceType":"module"}
